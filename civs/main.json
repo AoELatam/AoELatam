@@ -1,0 +1,188 @@
+{
+    "update": "99311",
+    "prefix_icon_discord": "civ_",
+    "tech_three_link": "https://aoe2techtree.net/?lng=mx#",
+    "img_path": "https://raw.githubusercontent.com/AoELatam/AoELatam/main/img/civs/",
+    "civs": [
+        {
+            "name": "armenians",
+            "name_mx": "Armenios"
+        },
+        {
+            "name": "aztecs",
+            "name_mx": "Aztecas"
+        },
+        {
+            "name": "berbers",
+            "name_mx": "Bereberes"
+        },
+        {
+            "name": "burmese",
+            "name_mx": "Birmanos"
+        },
+        {
+            "name": "byzantines",
+            "name_mx": "Bizantinos"
+        },
+        {
+            "name": "bohemians",
+            "name_mx": "Bohemios"
+        },
+        {
+            "name": "burgundians",
+            "name_mx": "Borgoñones"
+        },
+        {
+            "name": "bulgarians",
+            "name_mx": "Búlgaros"
+        },
+        {
+            "name": "celts",
+            "name_mx": "Celtas"
+        },
+        {
+            "name": "chinese",
+            "name_mx": "Chinos"
+        },
+        {
+            "name": "koreans",
+            "name_mx": "Coreanos"
+        },
+        {
+            "name": "cumans",
+            "name_mx": "Cumanos"
+        },
+        {
+            "name": "slavs",
+            "name_mx": "Eslavos"
+        },
+        {
+            "name": "spanish",
+            "name_mx": "Españoles"
+        },
+        {
+            "name": "ethiopians",
+            "name_mx": "Etíopes"
+        },
+        {
+            "name": "franks",
+            "name_mx": "Francos"
+        },
+        {
+            "name": "georgians",
+            "name_mx": "Georgianos"
+        },
+        {
+            "name": "goths",
+            "name_mx": "Godos"
+        },
+        {
+            "name": "huns",
+            "name_mx": "Hunos"
+        },
+        {
+            "name": "incas",
+            "name_mx": "Incas"
+        },
+        {
+            "name": "britons",
+            "name_mx": "Ingleses"
+        },
+        {
+            "name": "italians",
+            "name_mx": "Italianos"
+        },
+        {
+            "name": "japanese",
+            "name_mx": "Japoneses"
+        },
+        {
+            "name": "khmer",
+            "name_mx": "Jemeres"
+        },
+        {
+            "name": "lithuanians",
+            "name_mx": "Lituanos"
+        },
+        {
+            "name": "bengalis",
+            "name_mx": "Los bengalíes"
+        },
+        {
+            "name": "dravidians",
+            "name_mx": "Los dravídicos"
+        },
+        {
+            "name": "gurjaras",
+            "name_mx": "Los gurjaras"
+        },
+        {
+            "name": "hindustanis",
+            "name_mx": "Los indostaníes"
+        },
+        {
+            "name": "magyars",
+            "name_mx": "Magiares"
+        },
+        {
+            "name": "malay",
+            "name_mx": "Malayos"
+        },
+        {
+            "name": "malians",
+            "name_mx": "Malíes"
+        },
+        {
+            "name": "mayans",
+            "name_mx": "Mayas"
+        },
+        {
+            "name": "mongols",
+            "name_mx": "Mongoles"
+        },
+        {
+            "name": "persians",
+            "name_mx": "Persas"
+        },
+        {
+            "name": "poles",
+            "name_mx": "Polacos"
+        },
+        {
+            "name": "portuguese",
+            "name_mx": "Portugueses"
+        },
+        {
+            "name": "romans",
+            "name_mx": "Romanos"
+        },
+        {
+            "name": "saracens",
+            "name_mx": "Sarracenos"
+        },
+        {
+            "name": "sicilians",
+            "name_mx": "Sicialianos"
+        },
+        {
+            "name": "tatars",
+            "name_mx": "Tártaros"
+        },
+        {
+            "name": "teutons",
+            "name_mx": "Teutones"
+        },
+        {
+            "name": "turks",
+            "name_mx": "Turcos"
+        },
+        {
+            "name": "vietnamese",
+            "name_mx": "Vietnamitas"
+        },
+        {
+            "name": "vikings",
+            "name_mx": "Vikingos"
+        }
+    ]
+}
