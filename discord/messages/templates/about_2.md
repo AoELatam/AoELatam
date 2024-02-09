@@ -1,5 +1,3 @@
-https://raw.githubusercontent.com/AoELatam/AoELatam/main/img/aoelatam/aoelatam_text_logo.png
-
 Te damos la bienvenida a [AoELatam.com](https://aoelatam.com/), una comunidad latina pensada y creada para todas las personas fanáticas del juego Age Of Empires II: Definitive Edition. En este servidor encontrarás recursos en español que te permitirán mejorar en el juego.
 
 ## Acerca de los roles
