@@ -1,1 +1,1 @@
-[.](https://raw.githubusercontent.com/AoELatam/AoELatam/main/img/aoelatam/aoelatam_text_logo.png)
+https://raw.githubusercontent.com/AoELatam/AoELatam/main/img/aoelatam/aoelatam_text_logo.png
