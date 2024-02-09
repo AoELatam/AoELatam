@@ -4,7 +4,7 @@ Te damos la bienvenida a [AoELatam.com](https://aoelatam.com/), una comunidad la
 
 Hemos pensado en distintos roles, dependiendo de lo que te guste realizar.
 
-- @Embajador Este rol es para aquellas personas interesadas en dar a conocer esta comunidad.
+- <@&1167518004062474270> Este rol es para aquellas personas interesadas en dar a conocer esta comunidad.
 
 - @Desarrollador ¿Estás creando un bot o una página para la comunidad? Este rol te permitirá tener acceso a los canales de soporte para hacer crecer la comunidad.
 
